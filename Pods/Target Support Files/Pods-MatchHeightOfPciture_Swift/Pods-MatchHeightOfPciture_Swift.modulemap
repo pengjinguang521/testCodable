@@ -1,0 +1,6 @@
+framework module Pods_MatchHeightOfPciture_Swift {
+  umbrella header "Pods-MatchHeightOfPciture_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
